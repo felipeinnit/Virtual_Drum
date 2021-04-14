@@ -1,6 +1,7 @@
 # Virtual Drum
 
 On my proces of learning vanilla JS and DOM Manipulation learning 
+This app was built using GitHub Pages [Live view](https://felipeinnit.github.io/Virtual_Drum/)
 
 ### Executing program
 
